@@ -1,12 +1,4 @@
-# How to run
-
-## Step 1
+### How to run
 ```
-bun i
-# or
-npm i
-```
-## Step 2
-```
-bun run dev
+bun i && bun run dev
 ```
